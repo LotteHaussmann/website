@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "My name is Charlotte and I’m a social scientist. I am currently doing my PhD, investigating the relationship between media use and loneliness, social isolation and social exclusion among young people.\nHere you can find information about my PhD project and about me. At the moment, I am also interested in science communication. You may find something about this here soon. Everything is still a work in progress. In my free time, I enjoy baking and cooking, and I also like building miniature models. I also like playing darts 🎯.\n\nThis page was built with productive procrastination and R."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "Social sciences in the digital age face unique challenges that continue to fascinate me. Quantified facts are crucial for identifying action areas to prevent early-stage inequalities. Creating a just digitalized society and effectively managing digitalization’s opportunities and risks will be a future challenge. Interdisciplinary approaches, connecting mathematical and IT methods with social science theories, are essential. I’m passionate about this challenge and eager to learn new methods while building a network of like-minded individuals."
-  },
-  {
-    "objectID": "Blog.html",
-    "href": "Blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/2025-08-13-test/index.html",
     "href": "posts/2025-08-13-test/index.html",
     "title": "blog post title",
@@ -28,39 +7,25 @@
     "text": "Here is where I will start writing my actual blog post content…\n\n\n\nCitationBibTeX citation:@online{csik2022,\n  author = {Csik, Samantha},\n  title = {Blog Post Title},\n  date = {2022-10-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCsik, Samantha. 2022. “Blog Post Title.” October 24, 2022.\nhttps://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
   },
   {
-    "objectID": "PhD Project.html",
-    "href": "PhD Project.html",
-    "title": "PhD Project",
-    "section": "",
-    "text": "Loneliness, social isolation, and social exclusion are significant challenges in our society as they can be major contributors to many mental and physical health problems. The issue of loneliness has been brought to the public’s attention by the pandemic, as many people have had to give up social interactions because of containment measures. So far, social science research on loneliness has mainly focused on older people, while there is limited research on feelings of loneliness, social exclusion and isolation among adolescents and young adults (Verity et al., 2022). My PhD project aims to fill this research gap and develop a better understanding of loneliness in young people, including the influence of media use. The impact of technology and social media on social isolation is an ongoing area of research that is constantly evolving. Studies have shown that excessive use of social media can have negative effects on the health of young people, but the use of social media is one of the main channels of communication. On the other hand, social media communication has an impact on real life relationships. In order to identify risks and opportunities, I would like to better understand this process. This leads to my research question:\nWhat impact do inequalities in access to, use of and outcomes from (social) media have on social exclusion, social isolation, and loneliness?\nI have broken down my PhD project into three work packages based on the research question. Each of these will be examined using specific methods and published as individual papers (hopefully). You can find out more about my PhD project on my department’s website or by checking out this interview."
-  },
-  {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "My name is Charlotte and I’m a social scientist. I am currently doing my PhD, investigating the relationship between media use and loneliness, social isolation and social exclusion among young people.\nHere you can find information about my PhD project and about me. You can also read my blog, in which I write about my experiences, opinions and thoughts relating to my doctoral research. I also write about my hobbies, Luxembourg (the small but beautiful country in which I currently live) and anything else that’s on my mind.\n\nThis page was built with productive procrastination and R."
+    "text": "My name is Charlotte and I’m a social scientist. I am currently doing my PhD, investigating the relationship between media use and loneliness, social isolation and social exclusion among young people.\nHere you can find information about my PhD project and about me. At the moment, I am also interested in science communication. You may find something about this here soon. Everything is still a work in progress. In my free time, I enjoy baking and cooking, as well as building miniature models and playing darts 🎯.\n\nThis page was built with productive procrastination and R."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#hi",
+    "href": "index.html#hi",
     "title": "Welcome",
-    "section": "Education",
-    "text": "Education\nMassachusetts Institute of Technology | Cambridge, MA\nPh.D. in Computer Science | September 2009 - May 2014\nThe University of California, Berkeley | Berkeley, CA\nB.S. in Computer Science | September 2005 - May 2009"
+    "section": "",
+    "text": "My name is Charlotte and I’m a social scientist. I am currently doing my PhD, investigating the relationship between media use and loneliness, social isolation and social exclusion among young people.\nHere you can find information about my PhD project and about me. At the moment, I am also interested in science communication. You may find something about this here soon. Everything is still a work in progress. In my free time, I enjoy baking and cooking, as well as building miniature models and playing darts 🎯.\n\nThis page was built with productive procrastination and R."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Welcome",
-    "section": "Experience",
-    "text": "Experience\nGoogle Brain | Principal Investigator | January 2018 - Present\nNetflix | Research Scientist | June 2014 - December 2017\n\nThis page was built with productive procrastination and R."
-  },
-  {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About me",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nAll courses were taught in German.↩︎"
+    "section": "",
+    "text": "Social sciences in the digital age face unique challenges that continue to fascinate me. Quantified facts are crucial for identifying action areas to prevent early-stage inequalities. Creating a just digitalized society and effectively managing digitalization’s opportunities and risks will be a future challenge. Interdisciplinary approaches, connecting mathematical and IT methods with social science theories, are essential. I’m passionate about this challenge and eager to learn new methods while building a network of like-minded individuals."
   },
   {
     "objectID": "about.html#work",
@@ -98,11 +63,18 @@
     "text": "Publications\nHaußmann, C., & Rüttenauer, T. (2024). Material deprivation and the Brexit referendum: a spatial multilevel analysis of the interplay between individual and regional deprivation. European Sociological Review, 40(3), 479-492. https://doi.org/10.1093/esr/jcad057"
   },
   {
-    "objectID": "index.html#hi",
-    "href": "index.html#hi",
-    "title": "Welcome",
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "My name is Charlotte and I’m a social scientist. I am currently doing my PhD, investigating the relationship between media use and loneliness, social isolation and social exclusion among young people.\nHere you can find information about my PhD project and about me. At the moment, I am also interested in science communication. You may find something about this here soon. Everything is still a work in progress. In my free time, I enjoy baking and cooking, and I also like building miniature models. I also like playing darts 🎯.\n\nThis page was built with productive procrastination and R."
+    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "PhD Project.html",
+    "href": "PhD Project.html",
+    "title": "PhD Project",
+    "section": "",
+    "text": "Loneliness, social isolation, and social exclusion are significant challenges in our society as they can be major contributors to many mental and physical health problems. The issue of loneliness has been brought to the public’s attention by the pandemic, as many people have had to give up social interactions because of containment measures. So far, social science research on loneliness has mainly focused on older people, while there is limited research on feelings of loneliness, social exclusion and isolation among adolescents and young adults (Verity et al., 2022). My PhD project aims to fill this research gap and develop a better understanding of loneliness in young people, including the influence of media use. The impact of technology and social media on social isolation is an ongoing area of research that is constantly evolving. Studies have shown that excessive use of social media can have negative effects on the health of young people, but the use of social media is one of the main channels of communication. On the other hand, social media communication has an impact on real life relationships. In order to identify risks and opportunities, I would like to better understand this process. This leads to my research question:\nWhat impact do inequalities in access to, use of and outcomes from (social) media have on social exclusion, social isolation, and loneliness?\nI have broken down my PhD project into three work packages based on the research question. Each of these will be examined using specific methods and published as individual papers (hopefully). You can find out more about my PhD project on my department’s website or by checking out this interview."
   },
   {
     "objectID": "PhD Project.html#media-usage-patterns-among-young-people",
@@ -123,6 +95,6 @@
     "href": "PhD Project.html#media-usage-and-loneliness",
     "title": "PhD Project",
     "section": "Media Usage and Loneliness",
-    "text": "Media Usage and Loneliness\n\n\n\n\n\nIn meinem letzten Paper möchte ich beide Perspektiven verbinden und der Frage nachgehen, wie Einsamkeit und Mediennutzung zusammenhängen."
+    "text": "Media Usage and Loneliness\n\n\n\n\n\nIn my last paper, I would like to combine both perspectives and explore the question of how loneliness and media use are related. The aim is to identify risks and opportunities. On the one hand, media use can provide opportunities to meet new people with similar interests and maintain communication with friends. On the other hand, the process of comparison, especially on social networks, can trigger feelings of FoMo (fear of missing out) and increase feelings of stress and loneliness. Data from the Youth Survey Luxembourg 2024 will be used for this analysis. The results should contribute to a more differentiated understanding of media use and its effects."
   }
 ]
