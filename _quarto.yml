@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Charlotte Haussmann"
+  favicon: "/images/snail.png"
+  navbar:
+    background: dark
+    logo: "/images/snail_white.png"
+    tools:
+      - icon: bluesky
+        href: https://bsky.app/profile/lottehaussmann.bsky.social        
+      - icon: github 
+        href: https://github.com/LotteHaussmann
+      - icon: linkedin
+        href: https://www.linkedin.com/in/charlotte-haußmann
+
+    left:
+      - href: index.qmd
+        text: Home
+      - PhD Project.qmd 
+      - about.qmd
+      
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    respect-user-color-scheme: true 
+
+editor: visual
+
