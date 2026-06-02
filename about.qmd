@@ -37,7 +37,7 @@ Social sciences in the digital age face unique challenges that continue to fasci
 ## Teaching
 
 +--------------------+--------------------------------------------------------------------------------------------------------------------------+
-| 2023 & 2024 & 2025 | Seminar (teaching assistant), B.A. Applied Social Research: Quantitative Methods, *University of Luxembourg, Luxembourg* |
+| 2023-2025          | Seminar (teaching assistant), B.A. Applied Social Research: Quantitative Methods, *University of Luxembourg, Luxembourg* |
 +--------------------+--------------------------------------------------------------------------------------------------------------------------+
 | 2022               | Seminar, B.A. Perception of Inequality and Justice, *University of Trier, Germany*                                       |
 +--------------------+--------------------------------------------------------------------------------------------------------------------------+
@@ -78,4 +78,17 @@ Social sciences in the digital age face unique challenges that continue to fasci
 
 ## Publications
 
+### Peer-Reviewed Journal Article 
+
 Haußmann, C., & Rüttenauer, T. (2024). Material deprivation and the Brexit referendum: a spatial multilevel analysis of the interplay between individual and regional deprivation. European Sociological Review, 40(3), 479-492. <https://doi.org/10.1093/esr/jcad057>
+
+### Books & Others 
+Bulut, H., Salza, G., Residori, C., Scheifer, G., Haußmann, C., & Samuel, R. (2025). Kapitel 5. Der Blick junger Menschen auf Digitalität: Zugänge, Nutzungsmuster und Teilhabe. In A. Schumacher, H. Käckmeister, & R. Samuel (Eds), Nationaler Bericht zur Situation der Jugend in Luxemburg 2025 (pp. 91–123). <https://orbilu.uni.lu/bitstream/10993/67940/1/JB25-KAPITEL05.pdf>
+
+Residori, C., Bulut, H., Salza, G., Scheifer, G., Haußmann, C., & Samuel, R. (2025). Kapitel 4. Der Blick junger Menschen auf die Gesellschaft und sich selbst: Politik, Partizipation, soziales Umfeld, Freizeitverhalten und Wohlbefinden. In A. Schumacher, H. Käckmeister, & R. Samuel (Eds), Nationaler Bericht zur Situation der Jugend in Luxemburg 2025 (pp. 47–90). <https://orbilu.uni.lu/bitstream/10993/67936/1/JB25-KAPITEL04.pdf>
+
+Residori, C., Bulut, H., Samuel, R., Şolcă, Ş. A., Haußmann, C., & Scheifer, G. (2025). Tabellenband mit Schlüsseldaten aus dem Youth Survey Luxembourg zum Jugendbericht 2025. <https://orbilu.uni.lu/bitstream/10993/67960/1/JB25-Tabellen.pdf>
+
+
+
+

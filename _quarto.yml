@@ -21,6 +21,8 @@ website:
         text: Home
       - PhD Project.qmd 
       - about.qmd
+      - href: poster.qmd
+        text: Poster
       
 
 format:

@@ -1,0 +1,29 @@
+---
+title: "Poster Presentation 24 June 2026 University of Luxembourg"
+resources:
+  - "poster_presentation.mp3"
+  - "poster.png"
+---
+
+# Between Structure and Perceived Status
+
+## Social Exclusion, Social Isolation, and Loneliness among Young People in Luxembourg
+
+**Authors**: Charlotte Haußmann, Robin Samuel\
+University of Luxembourg
+
+You can download the poster [here](pdf/Poster_Colloquium_v1.pdf).
+
+
++-------------------------------------------------------+--------------------------------------------------+
+| ![](images/poster.png){fig-align="center" width="300"}| Audio Presentation                               |
+|                                                       |                                                  |
+|                                                       | <audio controls>                                 |
+|                                                       |                                                  |
+|                                                       | <source src="audio/poster_presentation.mp3"      |
+|                                                       |   type="audio/mpeg">                             |
+|                                                       | Your browser does not support the audio element. |
+|                                                       | </audio>                                         |
++-------------------------------------------------------+--------------------------------------------------+
+
+
