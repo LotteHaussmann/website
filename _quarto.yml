@@ -22,7 +22,7 @@ website:
       - PhD Project.qmd 
       - about.qmd
       - href: poster.qmd
-        text: Poster
+        text: Digital Poster
       
 
 format:

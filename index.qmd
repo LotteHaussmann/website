@@ -4,7 +4,7 @@ title: "Welcome"
 about:
   template: trestles
   image-width: 10em
-  image: "images/snail.png"
+  image: "images/pic_ecsr.jpeg"
   links: 
     - icon: linkedin
       href: https://www.linkedin.com/in/charlotte-haußmann    
@@ -16,10 +16,9 @@ about:
 
 ## Hi!
 
-My name is Charlotte and I'm a social scientist. I am currently doing my PhD, investigating the relationship between media use and loneliness, social isolation and social exclusion among young people. 
+My name is Charlotte and I'm a social scientist. I am currently doing my PhD, investigating the relationship between media use and loneliness, social isolation and social exclusion among young people.
 
-Here you can find information about my [PhD project](/PhD Project.qmd) and [about me](/about.qmd). At the moment, I am also interested in science communication. You may find something about this here soon. Everything is still a work in progress.
-In my free time, I enjoy baking and cooking, as well as building miniature models and playing darts 🎯.
+Here you can find information about my [PhD project](/PhD%20Project.qmd) and [about me](/about.qmd). At the moment, I am also interested in science communication. You may find something about this here soon. Everything is still a work in progress. In my free time, I enjoy baking and cooking, as well as building miniature models and playing darts 🎯.
 
 ::: {style="text-align: right"}
 ~This page was built with productive procrastination and R.~
